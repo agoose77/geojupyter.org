@@ -4,3 +4,10 @@
 
 /.quarto/
 /_site/
+
+# MyST build outputs
+_build
+
+# Jupyter auto-generated files
+.ipynb_checkpoints/
+.jupyter_ystore.db
