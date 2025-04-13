@@ -1,3 +1,8 @@
-[Join a hackathon](/blog/20250129-announcing-geojupyter-hackathons/){.btn .btn-primary}
-[Join the community chat on Zulip](https://jupyter.zulipchat.com/#narrow/channel/471314-geojupyter){.btn .btn-primary}
-[Sign up for an interview](/interviews/sign-up.md){.btn .btn-secondary}
+% FIXME: inline attributes haven't landed in MyST yet:
+% https://github.com/jupyter-book/mystmd/pull/1822
+% https://github.com/jupyter-book/myst-enhancement-proposals/pull/28
+
+% Til that lands, needs to be done more manually.
+
+<span class="btn btn-primary"> [Join a hackathon](blog/20250129-announcing-geojupyter-hackathons/index.md)
+</span> <span class="btn btn-primary"> [Join the community chat on Zulip](https://jupyter.zulipchat.com/#narrow/channel/471314-geojupyter) </span> <span class="btn btn-secondary">[Sign up for an interview](interviews/sign-up.md)</span>

@@ -27,9 +27,10 @@ environment in JupyterLab.
 The GeoJupyter community is [meeting bi-weekly](/blog/20250129-announcing-geojupyter-hackathons) to generate and develop ideas.
 Please see our [hackathon notes blog posts](/blog/#category=Hackathons) to follow our progress!
 
-<center>
-{{< include call-to-action.md >}}
-</center>
++++{class: centered}
+:::{include} call-to-action.md
+:::
++++
 
 
 ## Next: Community programming, prototyping
@@ -50,3 +51,9 @@ please [sign up for an interview](/interviews/sign-up.md)!
 
 Introduce yourself in our
 [community chat space on Zulip](https://jupyter.zulipchat.com/#narrow/channel/471314-geojupyter/topic/Welcome)!
+
+
+:::{note} © 2025 GeoJupyter Contributors.
+
+GeoJupyter is a community effort that includes many Jupyter contributors and follows all Jupyter guidelines, but is currently not an official Jupyter subproject.
+:::

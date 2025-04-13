@@ -12,8 +12,6 @@ toc:
   - title: Blog
     children:
       - file: blog/index.md
-      - file: blog/index-blog.ipynb
-      - file: blog/index-gen.md
       - title: 20241030 Kickoff
         children:
           - file: blog/20241030-kickoff/index.md
