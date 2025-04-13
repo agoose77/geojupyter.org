@@ -19,9 +19,9 @@ site:
     folders: true
   nav:
     - title: "❓ About"
-      url: /about
+      url: about
     - title: "🛠️ Projects"
-      url: /projects
+      url: projects
     - title: "📝 Blog"
       url: /blog/index
     - title: "📆 Calendar"
