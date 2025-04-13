@@ -27,11 +27,11 @@ site:
     - title: "🛠️ Projects"
       url: /geojupyter.org/projects
     - title: "📝 Blog"
-      url: /geojupyter.org/blog/index
+      url: /geojupyter.org/blog
     - title: "📆 Calendar"
       url: /geojupyter.org/calendar
     - title: "💬 Interviews"
-      url: /geojupyter.org/interviews/index
+      url: /geojupyter.org/interviews
   # Buttons appear at the right of the navbar
   # FIXME: how to get zulip, github, rss, etc icons??
   actions:
