@@ -1,0 +1,42 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: be1ac155-d8aa-4fad-b118-2339ee43fa8a
+  title: GeoJupyter
+  # description:
+  # keywords: []
+  # authors: []
+  github: https://github.com/geojupyter/geojupyter.org
+    
+site:
+  template: book-theme
+  options:
+    logo: "https://avatars.githubusercontent.com/u/170677547?s=400&u=03648f729acc1a0f82ed15246feb7a77c1fcced7&v=4"
+    #favicon: favicon.ico
+    style: styles.css
+    # This ensures that URLs aren't flattened, and instead match the 
+    # source tree layout
+    folders: true
+  nav:
+    - title: "❓ About"
+      url: /about
+    - title: "🛠️ Projects"
+      url: /projects
+    - title: "📝 Blog"
+      url: /blog/index
+    - title: "📆 Calendar"
+      url: /calendar
+    - title: "💬 Interviews"
+      url: /interviews/index
+  # Buttons appear at the right of the navbar
+  # FIXME: how to get zulip, github, rss, etc icons??
+  actions:
+    - title: "Z"
+      url: https://jupyter.zulipchat.com/#narrow/channel/471314-geojupyter
+    - title: G
+      url: https://github.com/geojupyter/geojupyter.org
+    # FIXME: RSS xml index refuses to load
+    - title: R
+      url: "blog/index.xml"
+
+# FIXME: no good footer declaration yet. For now, put basic info in about page.
