@@ -36,7 +36,7 @@ site:
     - title: G
       url: https://github.com/geojupyter/geojupyter.org
     # FIXME: RSS xml index refuses to load
-    - title: R
-      url: "blog/index.xml"
+    #- title: R
+    #  url: "blog/index.xml"
 
 # FIXME: no good footer declaration yet. For now, put basic info in about page.

@@ -1,11 +1,9 @@
 ---
 # The landing page works best without the regular page title buttons and right panel outline. I am leaving the TOC on for now, still deciding...
 title: "GeoJupyter"
-about:
 site:
   hide_title_block: true
   hide_outline: true
-  template: "jolla"
 ---
 
 % FIXME: alignment?? Centering the image seems to be using a different page width as centereing the content below, so the logo and text are misaligned.
