@@ -33,9 +33,10 @@ reproducibility, and publishing.
 
 ![An image referencing the 1990s childrens' TV program "Captain Planet". Depicts the "planeteers" combining their powers to summon... Captain Planet!](./let-our-powers-combine.jpg)
 
-:::{.center-quote}
-{{< include /elevator-pitch.md >}}
++++{"kind": "centered"}
+:::{include} ../../elevator-pitch.md
 :::
++++
 
 GeoJupyter will consist of a new generation of tools and enhancements to existing
 libraries supporting exploration of data about our planet.
