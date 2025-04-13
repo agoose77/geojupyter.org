@@ -4,6 +4,7 @@ title: "GeoJupyter"
 site:
   hide_title_block: true
   hide_outline: true
+  hide_toc: true
 ---
 
 % FIXME: alignment?? Centering the image seems to be using a different page width as centereing the content below, so the logo and text are misaligned.
