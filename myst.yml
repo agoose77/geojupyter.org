@@ -19,15 +19,19 @@ site:
     folders: true
   nav:
     - title: "❓ About"
+    # FIXME: these urls should NOT have geojupyter.org/ in there, only 
+    # /about, /projects, etc. Once moved from my fperez.github.io testing
+    # URL to the official geojupyter.org, they should be cleaned by removing
+    # geojupyter.org/ from all of them.
       url: /geojupyter.org/about
     - title: "🛠️ Projects"
-      url: /projects
+      url: /geojupyter.org/projects
     - title: "📝 Blog"
-      url: /blog/index
+      url: /geojupyter.org/blog/index
     - title: "📆 Calendar"
-      url: /calendar
+      url: /geojupyter.org/calendar
     - title: "💬 Interviews"
-      url: /interviews/index
+      url: /geojupyter.org/interviews/index
   # Buttons appear at the right of the navbar
   # FIXME: how to get zulip, github, rss, etc icons??
   actions:
