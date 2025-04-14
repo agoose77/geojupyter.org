@@ -9,6 +9,6 @@ We aim to combine the **approachability** and **playfulness** of desktop GIS too
 **flexibility** and **reproducibility** of coding-driven GIS methods, and the
 **collaborative** and **storytelling** power of Jupyter to enable more researchers,
 educators, and learners to confidently engage with geospatial data.
-% END-SUB
+% END-DESC
 
 <hr style="width:50%; margin: auto" />
